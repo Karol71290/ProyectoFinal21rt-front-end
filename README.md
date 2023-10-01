@@ -3,19 +3,20 @@ Nombre de la aplicación: SharelyLinks App
 
 Este proyecto se creó tomando como modelo con [Create React App](https://github.com/facebook/create-react-app). y la api diario de viajes y minitwitter vistas en clases. 
 
-## Comandos Disponibles
+"This project was created using Create React App as a model, and the travel diary app and minitwitter views seen in class."
 
-En el directorio del proyecto, puedes usar estos comandos:
+## Available Commands
 
-- `npm start`: Inicia la aplicación en modo de desarrollo en [http://localhost:3000](http://localhost:3000).
+In the project directory, you can use these commands:
 
-- `npm test`: Ejecuta las pruebas en modo interactivo.
+- `npm start`: Launches the application in development mode at [http://localhost:3000](http://localhost:3000).
 
-- `npm run build`: Construye la aplicación para producción en la carpeta `build`.
+- `npm test`: Runs tests in interactive mode.
 
-- `npm run eject`: Nota importante: Esta operación es irreversible y te permite personalizar completamente tu proyecto.
+- `npm run build`: Builds the application for production in the `build` folder.
 
-## Variables de Entorno
+- `npm run eject`: Important note: This operation is irreversible and allows you to fully customize your project.
 
-Para configurar variables de entorno en tu proyecto, copia el archivo `.env.example` como `.env` y completa los valores necesarios.
+## Environment Variables
 
+To configure environment variables in your project, copy the `.env.example` file as `.env` and fill in the necessary values.
