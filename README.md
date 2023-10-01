@@ -1,6 +1,7 @@
+Nombre de la aplicación: SharelyLinks App 
 # Inicio Rápido de Create React App
 
-Este proyecto se creó con [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se creó tomando como modelo con [Create React App](https://github.com/facebook/create-react-app). y la api diario de viajes y minitwitter vistas en clases. 
 
 ## Comandos Disponibles
 
